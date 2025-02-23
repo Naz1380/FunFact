@@ -11,7 +11,7 @@ import SwiftUI
 struct FunFactApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
         }
     }
 }
